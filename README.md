@@ -8,4 +8,31 @@ It is designed to simulate a real-world business scenario where management needs
 # Dataset Used
 - <a href="https://github.com/YashikaChoudhary28/sales-performance-dashboard-excel/blob/main/Excel%20Project.xlsm">Dataset</a>
 
+# Questions(KPIs)
+-Which sales executives achieved the highest Total Sales?
+-Which city is generating the maximum overall sales?
+-What is the Target Hit % for each Sales Executive?
+-Who is the farthest away from their target?
+-Which executives are below 70% target achievement?
+-What is the average Target Hit % across all executives?
+-Is there a noticeable performance difference between cities?
+-Which executive contributes the highest percentage to total city sales?
+-What percentage of executives are meeting their targets?
+-Which KPI shows the biggest improvement opportunity?
 
+# Dashboard 
+- <a href="https://github.com/YashikaChoudhary28/sales-performance-dashboard-excel/blob/main/Screenshot%202026-03-02%20182830.png">Dashboard</a>
+
+# Process
+-Verify data for any missing values and anomalies, and sort out the user
+-Made sure data is consistent and clean with respect to data type,data format and values used.
+-Created pivot tables according to the questions asked.
+-Merge all pivot tables into one dashboard  and apply slicer to make dynamic
+
+# Tools Used
+-Microsoft Excel
+-Pivot Tables
+-Slicers
+-Charts (Bar, Pie, Line)
+-Conditional Formatting
+-Data Validation
