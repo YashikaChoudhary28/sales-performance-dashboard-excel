@@ -10,25 +10,15 @@ It is designed to simulate a real-world business scenario where management needs
 
 # Questions(KPIs)
 -Which sales executives achieved the highest Total Sales?
-
 -Which city is generating the maximum overall sales?
-
 -What is the Target Hit % for each Sales Executive?
-
 -Who is the farthest away from their target?
-
 -Which executives are below 70% target achievement?
-
 -What is the average Target Hit % across all executives?
-
 -Is there a noticeable performance difference between cities?
-
 -Which executive contributes the highest percentage to total city sales?
-
 -What percentage of executives are meeting their targets?
-
 -Which KPI shows the biggest improvement opportunity?
-
 
 - Dashboard Interaction <a href="https://github.com/YashikaChoudhary28/sales-performance-dashboard-excel/blob/main/Screenshot%202026-03-02%20182830.png">Dashboard</a>
 
